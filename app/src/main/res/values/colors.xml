@@ -3,4 +3,12 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlue">#182ef2</color>
+    <color name="colorPink">#f218ca</color>
+    <color name="colorLightGrey">#d6d9d5</color>
+
+
+    <!-- 버튼1 색상 -->
+    <color name="add_btn_bg">#569df4</color>
 </resources>

@@ -18,7 +18,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:text="내새끼 건강체크"
+            android:text="가족건강체크"
             android:textAlignment="center"
             android:textColor="@android:color/background_light"
             android:textSize="24sp"
